@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![codewars](https://www.codewars.com/users/AleksandrDronov/badges/large)]
+![codewars](https://www.codewars.com/users/AleksandrDronov/badges/large)
