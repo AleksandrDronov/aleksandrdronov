@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/NPM-informational?style=flat-square&logo=npm&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/Storybook-informational?style=flat-square&logo=Storybook&logoColor=FB2972&color=FFFFFF)
 ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=Jest&logoColor=B62912&color=FFFFFF)
+![](https://img.shields.io/badge/Cypress-informational?style=flat-square&logo=Cypress&logoColor=B62912&color=FFFFFF)
+
 
 
 
