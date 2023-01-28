@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=ffffff&color=007D7D) -->
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=3FA037)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=DC3526&color=FFFFFF)
+![](https://img.shields.io/badge/git-informational?style=flat-square&logo=git&logoColor=DC3526&color=FFFFFF)
 ![](https://img.shields.io/badge/NPM-informational?style=flat-square&logo=npm&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/Storybook-informational?style=flat-square&logo=Storybook&logoColor=FB2972&color=FFFFFF)
 ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=Jest&logoColor=B62912&color=FFFFFF)
