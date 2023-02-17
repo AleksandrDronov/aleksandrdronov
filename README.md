@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![codewars](https://www.codewars.com/users/Aleksandr%20Dronov/badges/small)](https://www.codewars.com/users/Aleksandr%20Dronov)
 
-[Telegram](https://t.me/AleksandDronov)
+[Telegram](https://t.me/DronovAleksandr)
 
 
 
