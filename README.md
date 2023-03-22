@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![codewars](https://www.codewars.com/users/Aleksandr%20Dronov/badges/small)](https://www.codewars.com/users/Aleksandr%20Dronov)
 
-<a  href="https://t.me/DronovAleksandr" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a>
+<a  href="https://t.me/DronovAleksandr" target="_blank"> <img src="./src/tg.png" alt="Telegram" height = 20></a>
 
 
 
