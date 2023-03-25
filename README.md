@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 
 
-[![codewars](https://www.codewars.com/users/Aleksandr%20Dronov/badges/small)](https://www.codewars.com/users/Aleksandr%20Dronov)
 
+<a  href="https://www.codewars.com/users/Aleksandr%20Dronov" target="_blank"> <img src="https://www.codewars.com/users/Aleksandr%20Dronov/badges/small" alt="Telegram"></a>
 <a  href="https://t.me/DronovAleksandr" target="_blank"> <img src="./src/tg.png" alt="Telegram" height = 20></a>
 
 
