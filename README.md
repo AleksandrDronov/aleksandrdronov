@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=ffffff&color=336791)
+
 ![](https://img.shields.io/badge/NestJS-informational?style=flat-square&logo=nestjs&logoColor=B62912&color=BDBEC1)
 ![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=3FA037)
