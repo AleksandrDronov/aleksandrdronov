@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
 ![](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=ffffff&color=336791)
-![](https://img.shields.io/badge/NestJS-informational?style=flat-square&logo=nest&logoColor=ffffff&color=#BDBEC1)
+![](https://img.shields.io/badge/NestJS-informational?style=flat-square&logo=nest&logoColor=ffffff&color=BDBEC1)
 ![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=3FA037)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/git-informational?style=flat-square&logo=git&logoColor=DC3526&color=#9B9897)
+![](https://img.shields.io/badge/git-informational?style=flat-square&logo=git&logoColor=DC3526&color=BDBEC1)
 ![](https://img.shields.io/badge/NPM-informational?style=flat-square&logo=npm&logoColor=ffffff&color=E44D26)
-![](https://img.shields.io/badge/Storybook-informational?style=flat-square&logo=Storybook&logoColor=FB2972&color=#9B9897)
-![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=Jest&logoColor=B62912&color=#9B9897)
+![](https://img.shields.io/badge/Storybook-informational?style=flat-square&logo=Storybook&logoColor=FB2972&color=BDBEC1)
+![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=Jest&logoColor=B62912&color=BDBEC1)
 ![](https://img.shields.io/badge/Cypress-informational?style=flat-square&logo=Cypress&logoColor=29DA86&color=3A5259)
 
 
