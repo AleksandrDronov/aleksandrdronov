@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/NestJS-informational?style=flat-square&logo=nestjs&logoColor=B62912&color=BDBEC1)
 ![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=3FA037)
-![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=2081E8&color=0B1828)
+![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=ffffffE8&color=0F7DDF)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/git-informational?style=flat-square&logo=git&logoColor=DC3526&color=BDBEC1)
 ![](https://img.shields.io/badge/NPM-informational?style=flat-square&logo=npm&logoColor=ffffff&color=E44D26)
