@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <a  href="https://www.codewars.com/users/Aleksandr%20Dronov" target="_blank"> <img src="https://www.codewars.com/users/Aleksandr%20Dronov/badges/small" alt="Telegram"></a>
 
 <a  href="https://t.me/DronovAleksandr" target="_blank"> <img src="./src/tg.png" alt="Telegram" height = 20></a>
+<a  href="https://www.linkedin.com/in/aleksanddronov" target="_blank"> <img src="./src/linkedin.png" alt="Telegram" height = 20></a>
 
 
 
