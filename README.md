@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=ffffff&color=572B98)
-![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=vue&logoColor=ffffff&color=35A66C)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat-square&logo=vue&logoColor=ffffff&color=35A66C)
 ![](https://img.shields.io/badge/Vite-informational?style=flat-square&logo=vite&logoColor=ffffff&color=747bff)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
