@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Storybook-informational?style=flat-square&logo=Storybook&logoColor=FB2972&color=BDBEC1)
 ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=Jest&logoColor=B62912&color=BDBEC1)
 ![](https://img.shields.io/badge/Cypress-informational?style=flat-square&logo=Cypress&logoColor=29DA86&color=3A5259)
+![](https://img.shields.io/badge/Pug-informational?style=flat-square&logo=Pug&logoColor=323330&color=e6cfcf)
 
 
 
