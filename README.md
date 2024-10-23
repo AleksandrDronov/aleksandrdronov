@@ -42,8 +42,11 @@ Here are some ideas to get you started:
 
 
 
+Codewars:
 
 <a  href="https://www.codewars.com/users/Aleksandr%20Dronov" target="_blank"> <img src="https://www.codewars.com/users/Aleksandr%20Dronov/badges/small" ></a>
+
+LeetCode:
 
 <a  href="https://leetcode.com/u/AleksandrDronov/" target="_blank"> ![](https://leetcode-badge-sage.vercel.app/badge/AleksandrDronov?theme=dark&bgColor=282828) </a>
 
