@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=ffffff&color=572B98)
 ![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white)
+![](https://img.shields.io/badge/Pinia-informational?style=flat-square&logo=pinia&logoColor=white)
 ![](https://img.shields.io/badge/Pug-informational?style=flat-square&logo=Pug&logoColor=323330&color=e6cfcf)
 ![](https://img.shields.io/badge/Vite-informational?style=flat-square&logo=vite&logoColor=ffffff&color=747bff)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
